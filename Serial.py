@@ -2,7 +2,7 @@ import random
 import string
 
 def generate_key():
-    key_format = 'XXXXX-XXXXX-XXXXX-XXXXX-XXXXX'  # Stijl van de sleutel
+    key_format = 'XXXXX-XXXXX-XXXXX-XXXXX-XXXXX'
     key = ''
     for char in key_format:
         if char == 'X':
@@ -19,4 +19,5 @@ def main():
 
 if __name__ == "__main__":
     main()
-input("Druk op Enter om te sluiten")
+print("Don't forget to copy your serial😉")
+input("Press Enter to close")

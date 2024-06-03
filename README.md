@@ -3,4 +3,4 @@ The serials don't work because it is just a simple Python generator that uses AL
 
 Thanks, Meanman1551 aka PyMaster1551
 
-*(This is not a product by Microsoft or any company or a licensed product)*
+*(This is not a product by Microsoft or any company, nor a licensed product)*
